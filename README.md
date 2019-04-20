@@ -49,7 +49,7 @@ Stay up to date with the latest ONNX news. [[Facebook](https://www.facebook.com/
 
 
 
-# Installation
+# Installation for fun
 
 ## Binaries
 
